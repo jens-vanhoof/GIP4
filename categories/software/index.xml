@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Software on GIP site</title>
+    <link>http://jens-vanhoof.github.io/GIP/categories/software/</link>
+    <description>Recent content in Software on GIP site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 22 Oct 2015 18:46:35 +0200</lastBuildDate>
+    <atom:link href="http://jens-vanhoof.github.io/GIP/categories/software/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Workflow: Hugo vs WordPress</title>
+      <link>http://jens-vanhoof.github.io/GIP/artikels/Software/GIP_Taak_07/</link>
+      <pubDate>Thu, 22 Oct 2015 18:46:35 +0200</pubDate>
+      
+      <guid>http://jens-vanhoof.github.io/GIP/artikels/Software/GIP_Taak_07/</guid>
+      <description>
+
+&lt;p&gt;Hugo is een programma dat werkt met het implementeeren van codes terwijl Wordpress werkt met een drag and drop systeem. Daardoor is Wordpress veel makkelijker en beter om mee te starten. Hugo daar in tegen is een veel moeilijker programma want daar moet je alle code zelf gaan implenteren. Doordat de documentie niet zo denderend is is het ook zeer moeilijk om hier aan te beginnen. Nu we alle nadelen hebben besproken van Hugo zijn er ook een paar voordelen. Het sterke punt van hugo is dat je heel gamakkelijk je post kan maken en aanpassen.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;hr /&gt;
+
+&lt;hr /&gt;
+
+&lt;h1 id=&#34;een-overzicht-van-de-directory-structuur:e12a4ef27342a56a1ab334ac45819bd3&#34;&gt;Een overzicht van de directory-structuur&lt;/h1&gt;
+
+&lt;h5 id=&#34;links:e12a4ef27342a56a1ab334ac45819bd3&#34;&gt;links&lt;/h5&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://gitlab.com/jens-vanhoof/GIP&#34;&gt;Gitlab&lt;/a&gt; -
+&lt;a href=&#34;https://github.com/jens-vanhoof/GIP&#34;&gt;Github&lt;/a&gt; -
+&lt;a href=&#34;http://jens-vanhoof.github.io/GIP/  &#34;&gt;Public&lt;/a&gt;&lt;/p&gt;
+
+&lt;h5 id=&#34;content:e12a4ef27342a56a1ab334ac45819bd3&#34;&gt;Content&lt;/h5&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Hierin komen alle post die worden aangemaakt.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h5 id=&#34;layouts:e12a4ef27342a56a1ab334ac45819bd3&#34;&gt;Layouts&lt;/h5&gt;
+
+&lt;ul&gt;
+&lt;li&gt;index.html: Dit zorgt voor mijn home page en gebruikt.&lt;/li&gt;
+&lt;li&gt;partials : Hierin staan bijna alle elementen die ik gebruik in mijn site bv elke pagina die       ik maak gebruik de header.html en footer.html.&lt;/li&gt;
+&lt;li&gt;default : Deze map wordt gebruikt als er in partails geen gepaste file bevind dat hugo nodig heeft gebruikt het deze files.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h5 id=&#34;static:e12a4ef27342a56a1ab334ac45819bd3&#34;&gt;Static&lt;/h5&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Hierin bevinden zich de css en javascript files van de site.&lt;br /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h5 id=&#34;rest:e12a4ef27342a56a1ab334ac45819bd3&#34;&gt;Rest&lt;/h5&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Config.toml: Hierin kan je verschillende veriablen declareren die je met hugo kan aanroepen.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

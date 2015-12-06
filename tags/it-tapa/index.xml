@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>It Tapa on GIP site</title>
+    <link>http://jens-vanhoof.github.io/GIP/tags/it-tapa/</link>
+    <description>Recent content in It Tapa on GIP site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 05 Dec 2015 14:46:35 +0200</lastBuildDate>
+    <atom:link href="http://jens-vanhoof.github.io/GIP/tags/it-tapa/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>FOIRE AUX QUESTIONS</title>
+      <link>http://jens-vanhoof.github.io/GIP/artikels/Frans/FAQ/</link>
+      <pubDate>Sat, 05 Dec 2015 14:46:35 +0200</pubDate>
+      
+      <guid>http://jens-vanhoof.github.io/GIP/artikels/Frans/FAQ/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Vous avez des questions sur MS SWAY ? Voici les réponses !&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Quel public est approprié pour sway ?&lt;/em&gt;&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;Sway est approprie pour tout public.
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;&lt;em&gt;Est-ce qu’il est possible de mettre des graphiques et des tableaux?&lt;/em&gt;&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;Oui, c’est possible. Sway a des manières différentes pour ajouter des graphiques et des tableaux.
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;&lt;em&gt;Est-ce que Sway est en preview?&lt;/em&gt;&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;Non, Sway a maintenant une disponibilité générale.
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;&lt;em&gt;Quelle est la différence entre Sway et PowerPoint?&lt;/em&gt;&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;Sway est plus facile à faire des présentations que PowerPoint mais PowerPoint a été créé pour des personnes très creatives.
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;&lt;em&gt;Il y a des effets en Sway?&lt;/em&gt;&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;Oui, mais ce sont des effets prédéfinis.
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;&lt;em&gt;Est-ce qu’il est possible de créer un Sway sans Internet?&lt;/em&gt;&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;Non, Sway est une application en ligne.
+&lt;/code&gt;&lt;/pre&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

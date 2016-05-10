@@ -1,0 +1,30 @@
+body{
+background-image: url("Assets/background.jpg");
+background-repeat: no-repeat;
+background-size: cover;
+font-family: "Jens", sans-serif;
+}
+.center{
+   position: fixed;
+   text-align: center;
+   height: 40%;
+   left: 55%;
+   top:15%;
+   margin-left: -500px;
+}
+.box{
+  background-color: rgba(187,236,19, 52);
+  padding:20px;
+  border-radius: 100px;
+}
+@font-face {
+  font-family: "Jens";
+  src: url(Scripts/Lobster-Regular.ttf) format("truetype");
+}
+#titel{
+  left: 35%;
+  top:2.5%;
+  font-size: 80px;
+  position: fixed;
+  font-family: "Jens", sans-serif;
+}

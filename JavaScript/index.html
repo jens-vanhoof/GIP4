@@ -1,0 +1,139 @@
+<html>
+<head>
+  <meta charset="utf-8" />
+  <!-- <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.0.0-beta1/jquery.js"></script> -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.2/jquery.min.js"></script>
+    <!-- <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/animate.css/3.2.0/animate.min.css"> -->
+  <!-- <link rel="stylesheet" href="Scripts/jquery-ui.css"> -->
+  <script src="Scripts/jquery-ui.js"></script>
+  <link rel="stylesheet" type="text/css" href="styles.css">
+  <script src="Scripts/sweetalert-dev.js"></script>
+  <link rel="stylesheet" href="Scripts/sweetalert.css">
+  <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css">
+  <script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
+
+</head>
+  <body>
+
+    <h1 id="titel">De Dierlijke Cel</h1>
+    <div class="position">
+      <img class="box" src="Assets/dierlijke_cel2.jpg" alt="" usemap="#Map" />
+      <map name="Map" id="Map">
+        <area id="button6" name="Nucleolus" shape="rect" coords="345,227,387,268" />
+        <area id="button5" name="Centriool" shape="rect" coords="446,110,490,157" />
+        <area id="button4" name="Mitochondriën" shape="rect" coords="528,217,574,264" />
+        <area id="button3" name="Golgi aparaat" shape="rect" coords="470,452,510,498" />
+        <area id="button2" name="Endoplasmatisch reticulum" shape="rect" coords="337,355,382,399" />
+        <area id="button1" name="Celkern" shape="rect" coords="427,283,474,329" />
+      </map>
+    </div>
+    <div class="modal fade" id="Celkern" tabindex="-1" role="dialog" aria-labelledby="memberModalLabel" aria-hidden="true">
+      <div class="modal-dialog">
+        <div class="modal-content">
+          <div class="modal-header">
+            <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+            <h4 class="modal-title" id="memberModalLabel">Celkern</h4>
+          </div>
+          <div class="modal-body">
+            De celkern is een organel waarin het DNA opgeslagen wordt. De celkern wordt door een kernmembraan gescheiden van het cytoplasma.
+            Een celkern is gewoonlijk in enkelvoud aanwezig, maar bij sommige organismen in tweevoud (zoals dikaryon bij schimmels, of een micro- en een macronucleus bij protisten) of zelfs in meervoud.
+          </div>
+          <div class="modal-footer">
+          <button type="button" class="btn btn-primary" data-dismiss="modal">Sluiten</button>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="modal fade" id="Endoplasmatisch" tabindex="-1" role="dialog" aria-labelledby="memberModalLabel" aria-hidden="true">
+      <div class="modal-dialog">
+        <div class="modal-content">
+          <div class="modal-header">
+            <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+            <h4 class="modal-title" id="memberModalLabel">Endoplasmatisch reticulum</h4>
+          </div>
+          <div class="modal-body">
+          Het endoplasmatisch reticulum is een netwerk van membranen dat gelegen is in het cytoplasma van een eukaryote cel. Het bestaat uit twee dicht tegen elkaar liggende membranen waartussen holten en kanalen worden gevormd. Het is afgescheiden van de rest van de cel door een membraan met dezelfde structuur als de celmembraan. Een theorie is dat het endoplasmatisch reticulum ontstaan is door instulping van het celmembraan. Aanwijzing hier voor is onder andere dat de eiwitsamenstelling van de binnenzijde van het endoplasmatisch reticulum overeenstemt met die van de buitenzijde van de celmembraan.
+          </div>
+          <div class="modal-footer">
+          <button type="button" class="btn btn-primary" data-dismiss="modal">Sluiten</button>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="modal fade" id="Golgi" tabindex="-1" role="dialog" aria-labelledby="memberModalLabel" aria-hidden="true">
+      <div class="modal-dialog">
+        <div class="modal-content">
+          <div class="modal-header">
+            <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+            <h4 class="modal-title" id="memberModalLabel">Golgi aparaat</h4>
+          </div>
+          <div class="modal-body">
+            Het golgicomplex behoort tot het endomembraansysteem van een cel. Dit systeem bevat het kernmembraan, de celkern (nucleus), het endoplasmatisch reticulum, het golgicomplex, de lysosomen en verschillende soorten vacuolen (grote vacuolen komen enkel voor in plantaardige cellen, in dierlijke cellen komen alleen kleintjes voor). Het is genoemd naar de Italiaan Camillo Golgi die in 1898 het bestaan ervan in zenuwcellen ontdekte. Later bleek het in allerlei cellen voor te komen van onder andere klieren.
+            In het golgicomplex worden de producten afkomstig van het endoplasmatisch reticulum omgebouwd en opgeslagen, om dan later naar andere bestemmingen verscheept te worden. Het is niet verwonderlijk dat vooral de cellen van secretie-organen bijzonder veel golgicomplexen bezitten.
+          </div>
+          <div class="modal-footer">
+          <button type="button" class="btn btn-primary" data-dismiss="modal">Sluiten</button>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="modal fade" id="Mitochondriën" tabindex="-1" role="dialog" aria-labelledby="memberModalLabel" aria-hidden="true">
+      <div class="modal-dialog">
+        <div class="modal-content">
+          <div class="modal-header">
+            <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+            <h4 class="modal-title" id="memberModalLabel">Mitochondriën</h4>
+          </div>
+          <div class="modal-body">
+            Een mitochondrion, mitochondrium (meervoud mitochondriën of mitochondria) is een boon- of bolvormig celorganel, dat functioneert als energiecentrale van de eukaryote cel. Een mitochondrion is meestal staafvormig en heeft een diameter van ongeveer 1 micrometer.
+             Omdat in de mitochondriën energiesynthese plaatsvindt, is er een verband tussen de energiebehoefte van een cel en het aantal mitochondriën per cel. Tijdens de afbraak van energierijke stoffen zoals vetten en glucose wordt acetyl-coenzym A geproduceerd. In mitochondriën worden bij de citroenzuurcyclus energierijke elektronen onttrokken aan dit acetyl-coenzym A. Vervolgens gebruiken de mitochondriën deze energierijke elektronen om tijdens de oxidatieve fosforylering ATP, NADH en FADH2 te produceren. Met name ATP is een belangrijke energiebron voor zeer veel reacties in de cel.  Een mitochondrium bezit een dubbel fosfolipide-membraan:
+               een uitwendig membraan
+               een inwendig membraan, met instulpingen, de cristae.
+            Tussen de cristae zit de matrix (vloeistof). Het aantal cristae staat ook in relatie met de intensiteit van de ademhaling.
+          </div>
+          <div class="modal-footer">
+          <button type="button" class="btn btn-primary" data-dismiss="modal">Sluiten</button>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="modal fade" id="Centriool" tabindex="-1" role="dialog" aria-labelledby="memberModalLabel" aria-hidden="true">
+      <div class="modal-dialog">
+        <div class="modal-content">
+          <div class="modal-header">
+            <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+            <h4 class="modal-title" id="memberModalLabel">Centriool</h4>
+          </div>
+          <div class="modal-body">
+            Een centriool is een organel zonder membraanstructuur dat voorkomt in alle dierlijke cellen, altijd twee per centrosoom. Hierbij staat het ene centriool loodrecht op het tweede. Het voorkomen van centriolen loopt terug tot bij de gisten (onder andere Saccharomyces cerevisiae), bij cellen van hogere planten worden centriolen niet aangetroffen.  Centriolen spelen een belangrijke rol bij de celdeling, hierbij verdubbelen ze en begeven ze zich elk naar een tegenovergestelde kant van de cel. Van hieruit kunnen ze elk, met behulp van de eiwitdraden, de helft van de 2n chromosomen (dus n paar chromosomen, bestaande uit 4n chromatiden) afzonderen, waarna de cel zich kan delen en de moedercel twee dochtercellen voortbrengt.
+            Een centriool heeft de vorm van een cilindertje, opgebouwd uit negen groepjes van drie microtubuli (buisjes) die gerangschikt zijn als de schoepen van een watermolen.
+            De centriolen kunnen ook orgaantjes bevatten die de trilharen en zweepdraden aanmaken. Trilharen vindt men onder andere in de slijmwegen. Zweepdraden zijn de 'staartjes' aan de mannelijke zaadcellen.  Men vermoedt dat centriolen overblijfselen zijn van spirocheten maar deze theorie gaat enkel op voor dierlijke cellen.
+          </div>
+          <div class="modal-footer">
+          <button type="button" class="btn btn-primary" data-dismiss="modal">Sluiten</button>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="modal fade" id="Nucleolus" tabindex="-1" role="dialog" aria-labelledby="memberModalLabel" aria-hidden="true">
+      <div class="modal-dialog">
+        <div class="modal-content">
+          <div class="modal-header">
+            <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+            <h4 class="modal-title" id="memberModalLabel">Nucleolus</h4>
+          </div>
+          <div class="modal-body">
+            Een kernlichaam of nucleolus (meervoud: nucleoli; letterlijk "kerntje") is een bolvormig object in de celkern. Het bevindt zich er samen met het chromatine (DNA-moleculen) en het karyoplasma (het plasma van de celkern).Nucleoli komen alleen maar voor bij eukaryote cellen. Ze zijn meestal niet te zien met een lichtmicroscoop, tenzij ze relatief groot zijn, wat er dan meestal op duidt dat de cel veel eiwitten aan gaat maken. In de nucleoli wordt namelijk rRNA (ribosomaal RNA) aangemaakt, dat vervolgens getransporteerd wordt naar de ribosomen die zorgen voor de synthese van eiwitten.
+            Verder bevatten de nucleoli ook veel losse mRNA (messenger RNA) fragmenten om de genetische code van het DNA op over te schrijven zodat deze met hulp van ribosomen op het ruw endoplasmatisch reticulum, "vertaald" kan worden naar bepaalde eiwitten.
+          </div>
+          <div class="modal-footer">
+          <button type="button" class="btn btn-primary" data-dismiss="modal">Sluiten</button>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <script src="script.js"></script>
+    <script src="Scripts/animatedModal.min.js"></script>
+  </body>
+</html>

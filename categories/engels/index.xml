@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Engels on GIP site</title>
+    <link>http://jens-vanhoof.github.io/GIP/categories/engels/</link>
+    <description>Recent content in Engels on GIP site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 05 Dec 2015 14:46:35 +0200</lastBuildDate>
+    <atom:link href="http://jens-vanhoof.github.io/GIP/categories/engels/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>IT-autobiography</title>
+      <link>http://jens-vanhoof.github.io/GIP/artikels/engels/IT-autobiography/</link>
+      <pubDate>Sat, 05 Dec 2015 14:46:35 +0200</pubDate>
+      
+      <guid>http://jens-vanhoof.github.io/GIP/artikels/engels/IT-autobiography/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;My name is Jens Van Hoof, a 17-year old! student at the Immaculata institute in Oostmalle. Currently I&amp;rsquo;m studying IT-management. Most of the time, I&amp;rsquo;m the guy who helps people who don&amp;rsquo;t get it yet. Later I want to be a programmer of software or games. My dream job is to be a hacker for the state.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img width=&#34;400px&#34; height=&#34;300px&#34; align=&#34;right&#34; src=&#34;https://scontent-ams2-1.xx.fbcdn.net/hphotos-xta1/t31.0-8/12094781_914998871870460_7303528174420982861_o.jpg&#34;&gt;&lt;/img&gt;&lt;/p&gt;
+
+&lt;p&gt;I was about the age of 11 when my older brother went to college and he made a mini version of Pokémon. It made me interested in how he did it. So he told me I had to look at JavaScript. From that moment on my life changed. I began to search on the internet and I found some tutorials that gave me a basic insight. When I had learned the basics I wanted to learn more so I decided to go for IT management in secondary school.&lt;/p&gt;
+
+&lt;p&gt;My whole life is about IT. When I come home from school I turn on my pc and it stays on till I go to sleep. That’s about 8 hours a day, I know it’s pretty much but I think that IT is and will be the future. Most of the time when I’m on my pc I’m playing video games. But for school I also need my pc. Most of our homework is online like all our GIP assignments. I often think about making a network at home but I haven’t found the right time yet. I also play a lot of different games like League of Legends, Minecraft, Counterstrike, etc&amp;hellip; I don’t often make a website because I’m not so good with designs but when I have to do it I can make a decent site. When I play some games or use a program I’m always fascinated with how they make something. Sometimes I even try to find out what language they used and try it out myself. I don’t think I’m a pro but I can say that I’m an advanced programmer in the early stage.&lt;/p&gt;
+
+&lt;p&gt;In the future I hope to learn more and more about different things in the IT world, not only programming but also some system management. My ambitions are to become a pretty good hacker but not for the illegal stuff. Maybe if I have the chance, become a hacker for the state.&lt;/p&gt;
+
+&lt;p&gt;I think there has been a big evolution in my programming skills. When I first began to program with C# I was happy I could make a program to print some text. Now I’m happy that I can make a whole game in C# or another language.
+IT has become a really important part of my life. Like one day my keyboard didn’t work anymore and didn’t have a spare one. I couldn’t make my homework, so I had nothing to do. I don’t think I could live without my pc for a month.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Review</title>
+      <link>http://jens-vanhoof.github.io/GIP/artikels/engels/Review/</link>
+      <pubDate>Sat, 05 Dec 2015 14:46:35 +0200</pubDate>
+      
+      <guid>http://jens-vanhoof.github.io/GIP/artikels/engels/Review/</guid>
+      <description>&lt;p&gt;I’m going to review the VMware ESXi. The VMware ESXi is a program that can host multiple virtual servers on a physical server. The program makes the life of a system manager a lot easier. I learned about this software at my apprenticeship where they used it to host about  30 servers.&lt;/p&gt;
+
+&lt;p&gt;The VMware software is established by seven people Diane Greene, Scott Devine, Edward Wang, Mendel Rosenblum and Edouard Bugnion. The software was developed to create a safer and more controllable environment. Back in the days the server room was a room with about 30 physical servers, for each process another one, but that took a lot of space and it was hard to keep up the controls for the hardware. With VMware this problem is solved: now you run VMware on one physical server and then you can host multiple virtual servers.&lt;/p&gt;
+
+&lt;p&gt;VMware isn’t the only developer, there is also a program called Hyper-V from Microsoft but I never used it so maybe you can give that also a try. At my apprenticeship they started with VMware a long time ago because it was the best at that time. But if they had to choose now they would maybe take another developer.&lt;/p&gt;
+
+&lt;p&gt;Now you are asking yourself how the program itself works. You have one client with software running and from there you can control the multiple virtual servers on your physical server. One of  the software features is that you can easily manage your servers from one pc, so you don’t have to go to the server to change something.
+In my opinion this is software pretty good, I’ll explain why. First the advantages. VMware is also a much better way than how they did it before virtualization.However there are also some disadvantages. With virtualization all your virtual servers are running on one physical server but when that goes down every server goes down too. But if you have two physical servers you can manage them with the software that the one takes over from the other one when one of the two goes down. Another disadvantage is that it isn’t the cheapest software on the market.&lt;/p&gt;
+
+&lt;p&gt;##Conclusion:7.&lt;sup&gt;5&lt;/sup&gt;&amp;frasl;&lt;sub&gt;10&lt;/sub&gt;&lt;/p&gt;
+
+&lt;p&gt;My conclusion is that it is a very good program because it has a nice web interface where you can get a lot of statistics of the server about downtime and usage. I would recommend it to other companies especially for big companies because the limit for virtual servers is very high.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

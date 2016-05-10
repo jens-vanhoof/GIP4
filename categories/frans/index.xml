@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Frans on GIP site</title>
+    <link>http://jens-vanhoof.github.io/GIP/categories/frans/</link>
+    <description>Recent content in Frans on GIP site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 05 Dec 2015 14:46:35 +0200</lastBuildDate>
+    <atom:link href="http://jens-vanhoof.github.io/GIP/categories/frans/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>FOIRE AUX QUESTIONS</title>
+      <link>http://jens-vanhoof.github.io/GIP/artikels/frans/FAQ/</link>
+      <pubDate>Sat, 05 Dec 2015 14:46:35 +0200</pubDate>
+      
+      <guid>http://jens-vanhoof.github.io/GIP/artikels/frans/FAQ/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Vous avez des questions sur MS SWAY ? Voici les réponses !&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Quel public est approprié pour sway ?&lt;/em&gt;&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;Sway est approprie pour tout public.
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;&lt;em&gt;Est-ce qu’il est possible de mettre des graphiques et des tableaux?&lt;/em&gt;&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;Oui, c’est possible. Sway a des manières différentes pour ajouter des graphiques et des tableaux.
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;&lt;em&gt;Est-ce que Sway est en preview?&lt;/em&gt;&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;Non, Sway a maintenant une disponibilité générale.
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;&lt;em&gt;Quelle est la différence entre Sway et PowerPoint?&lt;/em&gt;&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;Sway est plus facile à faire des présentations que PowerPoint mais PowerPoint a été créé pour des personnes très creatives.
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;&lt;em&gt;Il y a des effets en Sway?&lt;/em&gt;&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;Oui, mais ce sont des effets prédéfinis.
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;&lt;em&gt;Est-ce qu’il est possible de créer un Sway sans Internet?&lt;/em&gt;&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;Non, Sway est une application en ligne.
+&lt;/code&gt;&lt;/pre&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Reportage photos</title>
+      <link>http://jens-vanhoof.github.io/GIP/artikels/frans/Reportage%20photos/</link>
+      <pubDate>Sat, 05 Dec 2015 14:46:35 +0200</pubDate>
+      
+      <guid>http://jens-vanhoof.github.io/GIP/artikels/frans/Reportage%20photos/</guid>
+      <description>&lt;p&gt;&lt;iframe src=&#34;https://www.haikudeck.com/e/41dfcc66b7/?isUrlHashEnabled=false&amp;isPreviewEnabled=false&amp;isHeaderVisible=false&#34; width=&#34;640&#34; height=&#34;541&#34; frameborder=&#34;0&#34; marginheight=&#34;0&#34; marginwidth=&#34;0&#34;&gt;&lt;/iframe&gt;&lt;br/&gt;&lt;span style=&#34;font-family: arial, sans-serif; font-size: 8pt;&#34;&gt;&lt;a title=&#34;Gemeente schilde&#34; href=&#34;https://www.haikudeck.com/p/41dfcc66b7&#34;&gt;Gemeente schilde&lt;/a&gt; - Created with Haiku Deck, presentation software that inspires&lt;/span&gt;;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

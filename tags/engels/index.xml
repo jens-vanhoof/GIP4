@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Engels on GIP site</title>
+    <link>http://jens-vanhoof.github.io/GIP/tags/engels/</link>
+    <description>Recent content in Engels on GIP site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 06 Dec 2015 14:46:35 +0200</lastBuildDate>
+    <atom:link href="http://jens-vanhoof.github.io/GIP/tags/engels/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Instructiefilmpje Sway Engels</title>
+      <link>http://jens-vanhoof.github.io/GIP/artikels/it-tapa/InstructiefilmSwayENG/</link>
+      <pubDate>Sun, 06 Dec 2015 14:46:35 +0200</pubDate>
+      
+      <guid>http://jens-vanhoof.github.io/GIP/artikels/it-tapa/InstructiefilmSwayENG/</guid>
+      <description>&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/yXzof-j0bsY&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

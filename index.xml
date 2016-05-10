@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>GIP site</title>
+    <link>http://jens-vanhoof.github.io/GIP/</link>
+    <description>Recent content on GIP site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 22 Jan 2016 14:43:34 +0100</lastBuildDate>
+    <atom:link href="http://jens-vanhoof.github.io/GIP/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>2016-01-22</title>
+      <link>http://jens-vanhoof.github.io/GIP/artikels/stageverslagen/2016-01-22/</link>
+      <pubDate>Fri, 22 Jan 2016 14:43:34 +0100</pubDate>
+      
+      <guid>http://jens-vanhoof.github.io/GIP/artikels/stageverslagen/2016-01-22/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;Vandaag is het mijn laatste dag. Ik heb voor de laatste keer mijn printserver in orde proberen te krijgen.&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>2016-01-21</title>
+      <link>http://jens-vanhoof.github.io/GIP/artikels/stageverslagen/2016-01-21/</link>
+      <pubDate>Thu, 21 Jan 2016 14:43:34 +0100</pubDate>
+      
+      <guid>http://jens-vanhoof.github.io/GIP/artikels/stageverslagen/2016-01-21/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;Vandaag hebben we nog altijd bezig geweest mijn linux printserver. Er was ook een gedichten avond in de bin dus zijn de dar een beamer gaan instaleren. In de nammiddag was er een probleem met het internet van een van de buitendiensten. Dan hebben we een netwerk kabel moeten van ongeveer 100 meter lang om zo naar een andere dienst te gaan.&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>2016-01-20</title>
+      <link>http://jens-vanhoof.github.io/GIP/artikels/stageverslagen/2016-01-20/</link>
+      <pubDate>Wed, 20 Jan 2016 14:43:34 +0100</pubDate>
+      
+      <guid>http://jens-vanhoof.github.io/GIP/artikels/stageverslagen/2016-01-20/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;Vandaag heb ik eerst nog wat verder gewerkt aan mijn print server die nog niet helemaal op punt stond. Toen mijn printt server eindelijk werkte hebben we hem ge migreert naar de echt server. we hebben ook nog een tweede domain controleren proberen opte starten met een failover.&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>2016-01-19</title>
+      <link>http://jens-vanhoof.github.io/GIP/artikels/stageverslagen/2016-01-19/</link>
+      <pubDate>Tue, 19 Jan 2016 14:43:34 +0100</pubDate>
+      
+      <guid>http://jens-vanhoof.github.io/GIP/artikels/stageverslagen/2016-01-19/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;Vadaag heb ik een print server proberen te configureren. Eerst moest ik een virtuele machine instaleren met ubuntu. Daarna moest ik de virtuele machine laten samewerken met mijn windows client. Er werd ook en nieuwe server geinstaleerd die we dan ook hebben aangesloten en geconfigureerd worden.&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>2016-01-18</title>
+      <link>http://jens-vanhoof.github.io/GIP/artikels/stageverslagen/2016-01-18/</link>
+      <pubDate>Mon, 18 Jan 2016 14:43:34 +0100</pubDate>
+      
+      <guid>http://jens-vanhoof.github.io/GIP/artikels/stageverslagen/2016-01-18/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;Ik heb vandaag nog verder gewerkt aan de hotspot de laatste verbeteringen aangebracht. Daarna heb ik geholpen met het configueren van het access points. daarna heb ik een ubuntu virtuele machine moeten instaleren. Met daarop een lubuntu desktop.&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>2016-01-15</title>
+      <link>http://jens-vanhoof.github.io/GIP/artikels/stageverslagen/2016-01-15/</link>
+      <pubDate>Fri, 15 Jan 2016 14:43:34 +0100</pubDate>
+      
+      <guid>http://jens-vanhoof.github.io/GIP/artikels/stageverslagen/2016-01-15/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;Ik heb vandaag een website gemaakt voor een landingspagina voor de nieuwe hotspot van de gemeente Schilde. Daarna heb ik exception in de firewall zitten zetten want er waren een aantal sites geblokeerd door dat ze flash hadden geblocked. daarna heb ik een verggelijking gemaakt tussen een ipad air en een ipad air 2. Als laatste hebben we de belichting voor het personeels feest gaan instaleren.&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>2016-01-14</title>
+      <link>http://jens-vanhoof.github.io/GIP/artikels/stageverslagen/2016-01-14/</link>
+      <pubDate>Thu, 14 Jan 2016 14:43:34 +0100</pubDate>
+      
+      <guid>http://jens-vanhoof.github.io/GIP/artikels/stageverslagen/2016-01-14/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;In de voormiddag heb ik me de hele tijd bezig gehouden met het configureren een switch. het was een switch die ze op reserver hadden liggen. in de nammidag ben ik een inktpatroon gaan vervangen en heb ik nog een nieuwe pc klaargemaakt om aangesloten te worden. Daarna hebben we een kijkje genomen in de firewalll wat het allemaal blocked bv. flash en hoe je een exception kan instellen.&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>2016-01-13</title>
+      <link>http://jens-vanhoof.github.io/GIP/artikels/stageverslagen/2016-01-13/</link>
+      <pubDate>Wed, 13 Jan 2016 14:43:34 +0100</pubDate>
+      
+      <guid>http://jens-vanhoof.github.io/GIP/artikels/stageverslagen/2016-01-13/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;Ik heb vandaag een aantal pc moeten installeren. we hebben proberen om in een nieuwe server ram latjes bij te steken. in het begin waren er een paar fouten maar die hebben
+we op het einde nog kunnen oplossen. ik heb ook meer inzicht gekregen hoe mijn stage bedrijf hun netwerk eruit zien.
+Ze hebben me ook veel uitgelegd over de beveiliging van het netwerk hoe het ineen zit en welke programme ze allemaal hebben voor de beveiliging.&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>2016-01-12</title>
+      <link>http://jens-vanhoof.github.io/GIP/artikels/stageverslagen/2016-01-12/</link>
+      <pubDate>Tue, 12 Jan 2016 14:43:34 +0100</pubDate>
+      
+      <guid>http://jens-vanhoof.github.io/GIP/artikels/stageverslagen/2016-01-12/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;Ik heb vandaag verschillende pc gecontroleerd of er iets mist mee was. De pc die in orde waren heb ik een herinstallatie op moeten uitvoeren.
+daarna hebben we geprobeerd om van de kapote pc een werkende pc te maken. Tenslotte heb ik ook nog informatie verzameld over de case study.&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>2016-01-11</title>
+      <link>http://jens-vanhoof.github.io/GIP/artikels/stageverslagen/2016-01-11/</link>
+      <pubDate>Mon, 11 Jan 2016 14:43:34 +0100</pubDate>
+      
+      <guid>http://jens-vanhoof.github.io/GIP/artikels/stageverslagen/2016-01-11/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;ik heb vandaag meegeholpen om een oude server te verwijderen. Daarnaa hebben we er een nieuwe geplaats die mijn stagementor had voorbereid.
+Daarnaa hebben natuurlijk opnieuw een switch moeten configureren. Toen alles klaar was hebben we geprobeerd om een aantal virtuele server over te brengen naar de nieuwe server.&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Instructiefilmpje Sway Engels</title>
+      <link>http://jens-vanhoof.github.io/GIP/artikels/it-tapa/InstructiefilmSwayENG/</link>
+      <pubDate>Sun, 06 Dec 2015 14:46:35 +0200</pubDate>
+      
+      <guid>http://jens-vanhoof.github.io/GIP/artikels/it-tapa/InstructiefilmSwayENG/</guid>
+      <description>&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/yXzof-j0bsY&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Instructiefilmpje Sway Nederland</title>
+      <link>http://jens-vanhoof.github.io/GIP/artikels/it-tapa/InstructiefilmSwayNL/</link>
+      <pubDate>Sun, 06 Dec 2015 14:46:35 +0200</pubDate>
+      
+      <guid>http://jens-vanhoof.github.io/GIP/artikels/it-tapa/InstructiefilmSwayNL/</guid>
+      <description>&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/EaHaAgpjdxk&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Middagsessie Sway</title>
+      <link>http://jens-vanhoof.github.io/GIP/artikels/it-tapa/SwayMiddagsesssie/</link>
+      <pubDate>Sun, 06 Dec 2015 14:46:35 +0200</pubDate>
+      
+      <guid>http://jens-vanhoof.github.io/GIP/artikels/it-tapa/SwayMiddagsesssie/</guid>
+      <description>&lt;p&gt;Onze, &lt;a href=&#34;http://ricardo-coenen.github.io/GIPsite/&#34;&gt;Ricardo&lt;/a&gt; en Jens, middagsessie ging over Sway. Sway is de opvolger van PowerPoint, en is veel gebruiksvriendelijker. Als je niet veel van PowerPoint kent, is Sway de ideale oplossing voor u. Als je echter veel van PowerPoint kent en je wilt veel creativiteit gebruiken is PowerPoint nog steeds de koploper. Sway is goed, maar omdat het net uit preview is loopt het vaak vast en je kunt Sway ook niet gebruiken wanneer je geen internet hebt. Het is dus geen programma maar iets in je browser.&lt;/p&gt;
+
+&lt;p&gt;Hier onder vind je ook onze facebook pagina en onze FAQ:&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.facebook.com/IT-tapa-588405757863108/&#34;&gt;&lt;img height=&#34;50px&#34; src=&#34;https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT9MOS_pH3Z-5vif6J49GnlMsJgQBsVgxbzYfcEZYiWwAd4Sr5M&#34;&gt;&lt;/a&gt;
+&lt;a href=&#34;http://google.com.au/&#34;&gt;&lt;img height=&#34;50px&#34; src=&#34;http://icons.iconarchive.com/icons/icojam/blue-bits/256/question-faq-icon.png&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img width=&#34;560&#34; height=&#34;400&#34;  src=&#34;https://scontent-ams2-1.xx.fbcdn.net/hphotos-xal1/t31.0-8/12240203_931268806910133_3764191703089532_o.jpg&#34;&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img  width=&#34;560&#34; height=&#34;400&#34; src=&#34;https://scontent-ams2-1.xx.fbcdn.net/hphotos-xpf1/t31.0-8/12247988_931268696910144_4134057028211480645_o.jpg&#34;&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>FOIRE AUX QUESTIONS</title>
+      <link>http://jens-vanhoof.github.io/GIP/artikels/frans/FAQ/</link>
+      <pubDate>Sat, 05 Dec 2015 14:46:35 +0200</pubDate>
+      
+      <guid>http://jens-vanhoof.github.io/GIP/artikels/frans/FAQ/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Vous avez des questions sur MS SWAY ? Voici les réponses !&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Quel public est approprié pour sway ?&lt;/em&gt;&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;Sway est approprie pour tout public.
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;&lt;em&gt;Est-ce qu’il est possible de mettre des graphiques et des tableaux?&lt;/em&gt;&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;Oui, c’est possible. Sway a des manières différentes pour ajouter des graphiques et des tableaux.
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;&lt;em&gt;Est-ce que Sway est en preview?&lt;/em&gt;&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;Non, Sway a maintenant une disponibilité générale.
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;&lt;em&gt;Quelle est la différence entre Sway et PowerPoint?&lt;/em&gt;&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;Sway est plus facile à faire des présentations que PowerPoint mais PowerPoint a été créé pour des personnes très creatives.
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;&lt;em&gt;Il y a des effets en Sway?&lt;/em&gt;&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;Oui, mais ce sont des effets prédéfinis.
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;&lt;em&gt;Est-ce qu’il est possible de créer un Sway sans Internet?&lt;/em&gt;&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;Non, Sway est une application en ligne.
+&lt;/code&gt;&lt;/pre&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>IT-autobiography</title>
+      <link>http://jens-vanhoof.github.io/GIP/artikels/engels/IT-autobiography/</link>
+      <pubDate>Sat, 05 Dec 2015 14:46:35 +0200</pubDate>
+      
+      <guid>http://jens-vanhoof.github.io/GIP/artikels/engels/IT-autobiography/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;My name is Jens Van Hoof, a 17-year old! student at the Immaculata institute in Oostmalle. Currently I&amp;rsquo;m studying IT-management. Most of the time, I&amp;rsquo;m the guy who helps people who don&amp;rsquo;t get it yet. Later I want to be a programmer of software or games. My dream job is to be a hacker for the state.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img width=&#34;400px&#34; height=&#34;300px&#34; align=&#34;right&#34; src=&#34;https://scontent-ams2-1.xx.fbcdn.net/hphotos-xta1/t31.0-8/12094781_914998871870460_7303528174420982861_o.jpg&#34;&gt;&lt;/img&gt;&lt;/p&gt;
+
+&lt;p&gt;I was about the age of 11 when my older brother went to college and he made a mini version of Pokémon. It made me interested in how he did it. So he told me I had to look at JavaScript. From that moment on my life changed. I began to search on the internet and I found some tutorials that gave me a basic insight. When I had learned the basics I wanted to learn more so I decided to go for IT management in secondary school.&lt;/p&gt;
+
+&lt;p&gt;My whole life is about IT. When I come home from school I turn on my pc and it stays on till I go to sleep. That’s about 8 hours a day, I know it’s pretty much but I think that IT is and will be the future. Most of the time when I’m on my pc I’m playing video games. But for school I also need my pc. Most of our homework is online like all our GIP assignments. I often think about making a network at home but I haven’t found the right time yet. I also play a lot of different games like League of Legends, Minecraft, Counterstrike, etc&amp;hellip; I don’t often make a website because I’m not so good with designs but when I have to do it I can make a decent site. When I play some games or use a program I’m always fascinated with how they make something. Sometimes I even try to find out what language they used and try it out myself. I don’t think I’m a pro but I can say that I’m an advanced programmer in the early stage.&lt;/p&gt;
+
+&lt;p&gt;In the future I hope to learn more and more about different things in the IT world, not only programming but also some system management. My ambitions are to become a pretty good hacker but not for the illegal stuff. Maybe if I have the chance, become a hacker for the state.&lt;/p&gt;
+
+&lt;p&gt;I think there has been a big evolution in my programming skills. When I first began to program with C# I was happy I could make a program to print some text. Now I’m happy that I can make a whole game in C# or another language.
+IT has become a really important part of my life. Like one day my keyboard didn’t work anymore and didn’t have a spare one. I couldn’t make my homework, so I had nothing to do. I don’t think I could live without my pc for a month.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

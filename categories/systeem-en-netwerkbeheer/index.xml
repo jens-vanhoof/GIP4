@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Systeem En Netwerkbeheer on GIP site</title>
+    <link>http://jens-vanhoof.github.io/GIP/categories/systeem-en-netwerkbeheer/</link>
+    <description>Recent content in Systeem En Netwerkbeheer on GIP site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 22 Oct 2015 18:46:35 +0200</lastBuildDate>
+    <atom:link href="http://jens-vanhoof.github.io/GIP/categories/systeem-en-netwerkbeheer/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Case Study</title>
+      <link>http://jens-vanhoof.github.io/GIP/artikels/systeem-en-netwerkbeheer/Case%20Study/</link>
+      <pubDate>Thu, 22 Oct 2015 18:46:35 +0200</pubDate>
+      
+      <guid>http://jens-vanhoof.github.io/GIP/artikels/systeem-en-netwerkbeheer/Case%20Study/</guid>
+      <description>&lt;p&gt;Tijdens mijn case study heb ik de software VMware ESXi.
+Het word gebruikt alleen door de IT-Afdeling van de gemeente.
+Hierdoor kan de gemeente meerdere virtuele servers hosten op een physieke server.
+&lt;img width=&#34;400px&#34; height=&#34;300px&#34; align=&#34;right&#34; src=&#34;http://www.kernsafe.cn/images/Citrix-iSCSI-iStorage-Server.png&#34;&gt;&lt;/img&gt;&lt;/p&gt;
+
+&lt;p&gt;Ik vind dat de software wel goed werkte op mijn stagebedrijf. Er waren ook enkele voordelen hiervan zoals: ze konden makkelijk back-ups maken van alle servers, minder kosten enzovoort. Doordat de virtuele server kunnen bestuurd worden van een andere pc die met het netwerk verbonden is moesten ze niet altijd naar de serverruimte te gaan voor aanpassing.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

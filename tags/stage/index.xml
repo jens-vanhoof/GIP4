@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Stage on GIP site</title>
+    <link>http://jens-vanhoof.github.io/GIP/tags/stage/</link>
+    <description>Recent content in Stage on GIP site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 22 Jan 2016 14:43:34 +0100</lastBuildDate>
+    <atom:link href="http://jens-vanhoof.github.io/GIP/tags/stage/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>2016-01-22</title>
+      <link>http://jens-vanhoof.github.io/GIP/artikels/stageverslagen/2016-01-22/</link>
+      <pubDate>Fri, 22 Jan 2016 14:43:34 +0100</pubDate>
+      
+      <guid>http://jens-vanhoof.github.io/GIP/artikels/stageverslagen/2016-01-22/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;Vandaag is het mijn laatste dag. Ik heb voor de laatste keer mijn printserver in orde proberen te krijgen.&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>2016-01-21</title>
+      <link>http://jens-vanhoof.github.io/GIP/artikels/stageverslagen/2016-01-21/</link>
+      <pubDate>Thu, 21 Jan 2016 14:43:34 +0100</pubDate>
+      
+      <guid>http://jens-vanhoof.github.io/GIP/artikels/stageverslagen/2016-01-21/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;Vandaag hebben we nog altijd bezig geweest mijn linux printserver. Er was ook een gedichten avond in de bin dus zijn de dar een beamer gaan instaleren. In de nammiddag was er een probleem met het internet van een van de buitendiensten. Dan hebben we een netwerk kabel moeten van ongeveer 100 meter lang om zo naar een andere dienst te gaan.&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>2016-01-20</title>
+      <link>http://jens-vanhoof.github.io/GIP/artikels/stageverslagen/2016-01-20/</link>
+      <pubDate>Wed, 20 Jan 2016 14:43:34 +0100</pubDate>
+      
+      <guid>http://jens-vanhoof.github.io/GIP/artikels/stageverslagen/2016-01-20/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;Vandaag heb ik eerst nog wat verder gewerkt aan mijn print server die nog niet helemaal op punt stond. Toen mijn printt server eindelijk werkte hebben we hem ge migreert naar de echt server. we hebben ook nog een tweede domain controleren proberen opte starten met een failover.&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>2016-01-19</title>
+      <link>http://jens-vanhoof.github.io/GIP/artikels/stageverslagen/2016-01-19/</link>
+      <pubDate>Tue, 19 Jan 2016 14:43:34 +0100</pubDate>
+      
+      <guid>http://jens-vanhoof.github.io/GIP/artikels/stageverslagen/2016-01-19/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;Vadaag heb ik een print server proberen te configureren. Eerst moest ik een virtuele machine instaleren met ubuntu. Daarna moest ik de virtuele machine laten samewerken met mijn windows client. Er werd ook en nieuwe server geinstaleerd die we dan ook hebben aangesloten en geconfigureerd worden.&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>2016-01-18</title>
+      <link>http://jens-vanhoof.github.io/GIP/artikels/stageverslagen/2016-01-18/</link>
+      <pubDate>Mon, 18 Jan 2016 14:43:34 +0100</pubDate>
+      
+      <guid>http://jens-vanhoof.github.io/GIP/artikels/stageverslagen/2016-01-18/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;Ik heb vandaag nog verder gewerkt aan de hotspot de laatste verbeteringen aangebracht. Daarna heb ik geholpen met het configueren van het access points. daarna heb ik een ubuntu virtuele machine moeten instaleren. Met daarop een lubuntu desktop.&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>2016-01-15</title>
+      <link>http://jens-vanhoof.github.io/GIP/artikels/stageverslagen/2016-01-15/</link>
+      <pubDate>Fri, 15 Jan 2016 14:43:34 +0100</pubDate>
+      
+      <guid>http://jens-vanhoof.github.io/GIP/artikels/stageverslagen/2016-01-15/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;Ik heb vandaag een website gemaakt voor een landingspagina voor de nieuwe hotspot van de gemeente Schilde. Daarna heb ik exception in de firewall zitten zetten want er waren een aantal sites geblokeerd door dat ze flash hadden geblocked. daarna heb ik een verggelijking gemaakt tussen een ipad air en een ipad air 2. Als laatste hebben we de belichting voor het personeels feest gaan instaleren.&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>2016-01-14</title>
+      <link>http://jens-vanhoof.github.io/GIP/artikels/stageverslagen/2016-01-14/</link>
+      <pubDate>Thu, 14 Jan 2016 14:43:34 +0100</pubDate>
+      
+      <guid>http://jens-vanhoof.github.io/GIP/artikels/stageverslagen/2016-01-14/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;In de voormiddag heb ik me de hele tijd bezig gehouden met het configureren een switch. het was een switch die ze op reserver hadden liggen. in de nammidag ben ik een inktpatroon gaan vervangen en heb ik nog een nieuwe pc klaargemaakt om aangesloten te worden. Daarna hebben we een kijkje genomen in de firewalll wat het allemaal blocked bv. flash en hoe je een exception kan instellen.&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>2016-01-13</title>
+      <link>http://jens-vanhoof.github.io/GIP/artikels/stageverslagen/2016-01-13/</link>
+      <pubDate>Wed, 13 Jan 2016 14:43:34 +0100</pubDate>
+      
+      <guid>http://jens-vanhoof.github.io/GIP/artikels/stageverslagen/2016-01-13/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;Ik heb vandaag een aantal pc moeten installeren. we hebben proberen om in een nieuwe server ram latjes bij te steken. in het begin waren er een paar fouten maar die hebben
+we op het einde nog kunnen oplossen. ik heb ook meer inzicht gekregen hoe mijn stage bedrijf hun netwerk eruit zien.
+Ze hebben me ook veel uitgelegd over de beveiliging van het netwerk hoe het ineen zit en welke programme ze allemaal hebben voor de beveiliging.&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>2016-01-12</title>
+      <link>http://jens-vanhoof.github.io/GIP/artikels/stageverslagen/2016-01-12/</link>
+      <pubDate>Tue, 12 Jan 2016 14:43:34 +0100</pubDate>
+      
+      <guid>http://jens-vanhoof.github.io/GIP/artikels/stageverslagen/2016-01-12/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;Ik heb vandaag verschillende pc gecontroleerd of er iets mist mee was. De pc die in orde waren heb ik een herinstallatie op moeten uitvoeren.
+daarna hebben we geprobeerd om van de kapote pc een werkende pc te maken. Tenslotte heb ik ook nog informatie verzameld over de case study.&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>2016-01-11</title>
+      <link>http://jens-vanhoof.github.io/GIP/artikels/stageverslagen/2016-01-11/</link>
+      <pubDate>Mon, 11 Jan 2016 14:43:34 +0100</pubDate>
+      
+      <guid>http://jens-vanhoof.github.io/GIP/artikels/stageverslagen/2016-01-11/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;ik heb vandaag meegeholpen om een oude server te verwijderen. Daarnaa hebben we er een nieuwe geplaats die mijn stagementor had voorbereid.
+Daarnaa hebben natuurlijk opnieuw een switch moeten configureren. Toen alles klaar was hebben we geprobeerd om een aantal virtuele server over te brengen naar de nieuwe server.&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
